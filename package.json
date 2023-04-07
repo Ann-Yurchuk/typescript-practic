@@ -1,0 +1,24 @@
+{
+  "name": "typescript-practic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ann-Yurchuk/typescript-practic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ann-Yurchuk/typescript-practic/issues"
+  },
+  "homepage": "https://github.com/Ann-Yurchuk/typescript-practic#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
